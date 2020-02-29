@@ -1,0 +1,2322 @@
+0: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:21 2020
+
+0: Tunnel closed
+1: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+2: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+3: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+6: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+5: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+4: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+2: Tunnel closed
+3: Tunnel closed
+8: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+7: "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+9: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+1: Tunnel closed
+4: Tunnel closed
+6: Tunnel closed
+8: Tunnel closed
+9: Tunnel closed
+10: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+11: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+5: Tunnel closed
+13: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+13: Tunnel closed
+14: "CONNECT secure.gravatar.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+15: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+12: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+15: Tunnel closed
+16: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:22 2020
+
+16: Tunnel closed
+17: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:23 2020
+
+18: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:23 2020
+
+19: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:23 2020
+
+17: Tunnel closed
+20: "CONNECT gitlab.oit.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:23 2020
+
+18: Tunnel closed
+20: Tunnel closed
+19: Tunnel closed
+21: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:24 2020
+
+22: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:25 2020
+
+23: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:25 2020
+
+24: "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:25 2020
+
+23: Tunnel closed
+23: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+25: "GET http://0.0.0.0:8000/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:27 2020
+
+25: ERROR "creating client socket failed"
+25: Responding HTTP/1.1 400 Bad Request
+26: "CONNECT en.mail.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:32 2020
+
+no-id: "ERROR "accepting client socket failed"
+28: "CONNECT ssl.ptlogin2.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:37 2020
+
+29: "CONNECT ui.ptlogin2.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:37 2020
+
+30: "CONNECT xui.ptlogin2.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:37 2020
+
+32: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+31: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+33: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+33: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+31: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+33: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+33: Responding "HTTP/1.1 200 OK"
+31: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+31: Responding "HTTP/1.1 200 OK"
+27: "CONNECT res.mail.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+34: "CONNECT res.mail.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+35: "CONNECT ty.captcha.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+36: "CONNECT tajs.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+38: "CONNECT cdn-go.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:38 2020
+
+34: Tunnel closed
+34: Requesting "CONNECT res.mail.qq.com:443 HTTP/1.1" from res.mail.qq.com
+39: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:39 2020
+
+32: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+32: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+32: Responding "HTTP/1.1 200 OK"
+39: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+39: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+39: Responding "HTTP/1.1 200 OK"
+40: "CONNECT ssl.captcha.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:40 2020
+
+41: "POST http://statuse.digitalcertvalidation.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:40 2020
+
+41: Requesting "POST http://statuse.digitalcertvalidation.com/ HTTP/1.1" from statuse.digitalcertvalidation.com
+40: Tunnel closed
+40: Requesting "CONNECT ssl.captcha.qq.com:443 HTTP/1.1" from ssl.captcha.qq.com
+41: Received "HTTP/1.1 200 OK" from statuse.digitalcertvalidation.com
+41: Responding "HTTP/1.1 200 OK"
+42: "CONNECT ssl.captcha.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:41 2020
+
+43: "CONNECT captcha.gtimg.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:42 2020
+
+44: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:42 2020
+
+44: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+44: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+44: Responding "HTTP/1.1 200 OK"
+45: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:53 2020
+
+46: "POST http://ocsp.godaddy.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:53 2020
+
+46: Requesting "POST http://ocsp.godaddy.com/ HTTP/1.1" from ocsp.godaddy.com
+46: Received "HTTP/1.1 200 OK" from ocsp.godaddy.com
+46: Responding "HTTP/1.1 200 OK"
+47: "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+48: "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+49: "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+50: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+52: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+53: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+51: "CONNECT www.gstatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+55: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+56: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+55: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+55: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+55: Responding "HTTP/1.1 200 OK"
+56: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+56: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+56: Responding "HTTP/1.1 200 OK"
+36: Tunnel closed
+57: "CONNECT pingtas.qq.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:54 2020
+
+58: "CONNECT push.piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:55 2020
+
+59: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:55 2020
+
+61: "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:55 2020
+
+49: Tunnel closed
+49: Requesting "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from dvngeac8rg9mb.cloudfront.net
+60: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:56 2020
+
+45: Tunnel closed
+45: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+62: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:56 2020
+
+53: Tunnel closed
+53: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+50: Tunnel closed
+50: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+63: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:56 2020
+
+64: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:56 2020
+
+65: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:56 2020
+
+60: Tunnel closed
+60: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+62: Tunnel closed
+62: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+66: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:56 2020
+
+63: Tunnel closed
+63: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+54: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:56 2020
+
+68: "CONNECT www.google.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:11:59 2020
+
+69: "GET http://www.sohu.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:02 2020
+
+69: not in cache
+69: Requesting "GET http://www.sohu.com/ HTTP/1.1" from www.sohu.com
+69: Received "HTTP/1.1 307 Temporary Redirect" from www.sohu.com
+69: Responding "HTTP/1.1 307 Temporary Redirect"
+70: "CONNECT www.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:02 2020
+
+71: "POST http://ocsp1.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+71: Requesting "POST http://ocsp1.digicert.com/ HTTP/1.1" from ocsp1.digicert.com
+71: Received "HTTP/1.1 200 OK" from ocsp1.digicert.com
+71: Responding "HTTP/1.1 200 OK"
+72: "CONNECT statics.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+75: "CONNECT statics.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+76: "CONNECT 39d0825d09f05.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+77: "CONNECT txt.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+78: "CONNECT cpro.baidustatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+79: "CONNECT statics.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+80: "CONNECT statics.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+81: "CONNECT js.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+82: "CONNECT images.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+83: "CONNECT images.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+84: "CONNECT images.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+85: "CONNECT statics.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:05 2020
+
+86: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:06 2020
+
+87: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:06 2020
+
+86: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+87: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+87: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+87: Responding "HTTP/1.1 200 OK"
+86: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+86: Responding "HTTP/1.1 200 OK"
+88: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:06 2020
+
+74: "CONNECT 5b0988e595225.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+73: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_0,y_0,w_525,h_350/os/news/25c06ac7c7a08d40eab67e0a9c3bf731.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+96: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_1269,h_846/os/news/758755a2d7c7bea4b2a7d682730fd42b.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+95: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_637,h_425/os/news/ce91714abf3145fe4a7342ca91665e0e.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+94: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_799,h_533/os/news/491cc694f651b6ca48ff6623e8bac902.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+93: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_30,y_24,w_389,h_259/os/news/591664cd37e92de5628cc609ed228b9d.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+92: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_70,y_3,w_794,h_530/os/news/bbf69d3287cda2dcb7f940b9ca0b996f.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+91: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_2,y_0,w_421,h_280/os/news/3c0ccb6206134c80ad29a875650c11ce.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+90: "CONNECT 5b0988e595225.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+89: "CONNECT 5b0988e595225.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+97: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_160/c_cut,x_0,y_33,w_552,h_276/os/news/bd55bf41c3c3940a246d6dba44386a16.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+98: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_4,y_12,w_1471,h_980/os/news/9f92ee0f1e133c4ee6561a58f5d1837f.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+99: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_6,w_1550,h_1033/os/news/c21f51bb6a5037b8fa1af01b74a0c9c1.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+100: "GET http://statics.itc.cn/sohu-homepage/oldentrancetwo.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+101: "GET http://www.sohu.com/upload/images/server/ghs.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+100: not in cache
+100: Requesting "GET http://statics.itc.cn/sohu-homepage/oldentrancetwo.png HTTP/1.1" from statics.itc.cn
+100: Received "HTTP/1.1 200 OK" from statics.itc.cn
+100: Responding "HTTP/1.1 200 OK"
+101: not in cache
+101: Requesting "GET http://www.sohu.com/upload/images/server/ghs.png HTTP/1.1" from www.sohu.com
+95: not in cache
+95: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_637,h_425/os/news/ce91714abf3145fe4a7342ca91665e0e.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+102: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+95: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+95: Responding "HTTP/1.1 200 OK"
+92: not in cache
+92: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_70,y_3,w_794,h_530/os/news/bbf69d3287cda2dcb7f940b9ca0b996f.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+101: Received "HTTP/1.1 200 OK" from www.sohu.com
+97: not in cache
+97: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_160/c_cut,x_0,y_33,w_552,h_276/os/news/bd55bf41c3c3940a246d6dba44386a16.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+101: Responding "HTTP/1.1 200 OK"
+93: not in cache
+93: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_30,y_24,w_389,h_259/os/news/591664cd37e92de5628cc609ed228b9d.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+96: not in cache
+96: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_1269,h_846/os/news/758755a2d7c7bea4b2a7d682730fd42b.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+99: not in cache
+99: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_6,w_1550,h_1033/os/news/c21f51bb6a5037b8fa1af01b74a0c9c1.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+92: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+92: Responding "HTTP/1.1 200 OK"
+93: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+93: Responding "HTTP/1.1 200 OK"
+96: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+96: Responding "HTTP/1.1 200 OK"
+97: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+97: Responding "HTTP/1.1 200 OK"
+99: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+99: Responding "HTTP/1.1 200 OK"
+103: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+103: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+103: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+103: Responding "HTTP/1.1 200 OK"
+88: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+102: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+88: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+88: Responding "HTTP/1.1 200 OK"
+102: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+102: Responding "HTTP/1.1 200 OK"
+104: "CONNECT v4.passport.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:07 2020
+
+106: "CONNECT v2.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+107: "CONNECT track.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+108: "CONNECT track.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+109: "CONNECT pv.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+94: not in cache
+94: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_799,h_533/os/news/491cc694f651b6ca48ff6623e8bac902.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+98: not in cache
+98: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_4,y_12,w_1471,h_980/os/news/9f92ee0f1e133c4ee6561a58f5d1837f.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+91: not in cache
+91: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_2,y_0,w_421,h_280/os/news/3c0ccb6206134c80ad29a875650c11ce.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+73: not in cache
+73: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_0,y_0,w_525,h_350/os/news/25c06ac7c7a08d40eab67e0a9c3bf731.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+110: "GET http://imp.optaim.com/201612/d5710e4e5ad6a4b1195bf96d138279ee.php?a=155 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+94: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+94: Responding "HTTP/1.1 200 OK"
+91: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+91: Responding "HTTP/1.1 200 OK"
+98: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+98: Responding "HTTP/1.1 200 OK"
+111: "CONNECT imp.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+73: Received "HTTP/1.1 200 OK" from 29e5534ea20a8.cdn.sohucs.com
+73: Responding "HTTP/1.1 200 OK"
+112: "CONNECT i.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+113: "CONNECT images.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+114: "CONNECT i.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+115: "CONNECT s.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+116: "CONNECT s.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+117: "CONNECT s.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+118: "CONNECT s.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+119: "CONNECT s.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+120: "CONNECT s.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+121: "CONNECT track.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+110: not in cache
+110: Requesting "GET http://imp.optaim.com/201612/d5710e4e5ad6a4b1195bf96d138279ee.php?a=155 HTTP/1.1" from imp.optaim.com
+122: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:08 2020
+
+122: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+110: Received "HTTP/1.1 200 OK" from imp.optaim.com
+110: Responding "HTTP/1.1 200 OK"
+122: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+122: Responding "HTTP/1.1 200 OK"
+124: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+123: "GET http://imp.ad-plus.cn/201111/ee4f7cebb2ef825bf6b3c8730c929929.php?a=24 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+123: not in cache
+123: Requesting "GET http://imp.ad-plus.cn/201111/ee4f7cebb2ef825bf6b3c8730c929929.php?a=24 HTTP/1.1" from imp.ad-plus.cn
+107: Tunnel closed
+107: Requesting "CONNECT track.sohu.com:443 HTTP/1.1" from track.sohu.com
+125: "CONNECT jincai.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+121: Tunnel closed
+121: Requesting "CONNECT track.sohu.com:443 HTTP/1.1" from track.sohu.com
+126: "CONNECT hotword.sogoucdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+127: "CONNECT adv-sv-show.focus.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+128: "CONNECT pl.hd.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+129: "CONNECT k.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+130: "CONNECT m1.auto.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+131: "CONNECT m1.auto.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+132: "CONNECT file.focus-res.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+133: "CONNECT news.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+134: "CONNECT adv-sv-show.focus.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+135: "CONNECT adv-sv-show.focus.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+136: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+137: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:09 2020
+
+123: Received "HTTP/1.1 200 OK" from imp.ad-plus.cn
+123: Responding "HTTP/1.1 200 OK"
+138: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+139: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+140: "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+141: "CONNECT ydgf.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+142: "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+143: "GET http://statics.itc.cn/web/static/images/pic/preload.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+143: not in cache
+143: Requesting "GET http://statics.itc.cn/web/static/images/pic/preload.png HTTP/1.1" from statics.itc.cn
+143: Received "HTTP/1.1 200 OK" from statics.itc.cn
+143: Responding "HTTP/1.1 200 OK"
+144: "CONNECT 5b0988e595225.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+146: "CONNECT e8aeb8bbdbbd7.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+147: "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+148: "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+149: "CONNECT d1.biz.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+150: "CONNECT d1.biz.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+151: "CONNECT d1.biz.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+152: "CONNECT hqm.stock.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+153: "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+154: "CONNECT phs.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+155: "CONNECT phs.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+156: "CONNECT e8aeb8bbdbbd7.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+157: "CONNECT e8aeb8bbdbbd7.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+158: "CONNECT e8aeb8bbdbbd7.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:10 2020
+
+159: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+160: "CONNECT e8aeb8bbdbbd7.cdn.sohucs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+161: "CONNECT phs.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+147: Tunnel closed
+147: Requesting "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 643108e7617ef.cdn.sohucs.com
+162: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+163: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+164: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+162: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+163: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+164: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+162: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+162: Responding "HTTP/1.1 200 OK"
+164: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+164: Responding "HTTP/1.1 200 OK"
+163: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+163: Responding "HTTP/1.1 200 OK"
+166: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+165: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+148: Tunnel closed
+148: Requesting "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 643108e7617ef.cdn.sohucs.com
+167: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+166: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+165: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+132: Tunnel closed
+132: Requesting "CONNECT file.focus-res.cn:443 HTTP/1.1" from file.focus-res.cn
+167: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+153: Tunnel closed
+153: Requesting "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 643108e7617ef.cdn.sohucs.com
+151: Tunnel closed
+151: Requesting "CONNECT d1.biz.itc.cn:443 HTTP/1.1" from d1.biz.itc.cn
+142: Tunnel closed
+142: Requesting "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 643108e7617ef.cdn.sohucs.com
+168: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+167: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+167: Responding "HTTP/1.1 200 OK"
+166: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+166: Responding "HTTP/1.1 200 OK"
+169: "CONNECT imp.optaim.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+170: "CONNECT i.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+171: "CONNECT imp.optaim.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+172: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+165: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+165: Responding "HTTP/1.1 200 OK"
+168: not in cache
+168: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+168: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+168: Responding "HTTP/1.1 200 OK"
+168: not cacheable because cache-control: no-store
+174: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+173: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+175: "CONNECT i.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+172: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+176: "CONNECT i.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+172: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+172: Responding "HTTP/1.1 200 OK"
+177: "CONNECT i.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+178: "CONNECT imp.optaim.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+179: "CONNECT imp.optaim.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+180: "CONNECT imp.optaim.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+181: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+174: not in cache
+174: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+181: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+173: not in cache
+173: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+174: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+174: Responding "HTTP/1.1 200 OK"
+174: not cacheable because cache-control: no-store
+173: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+173: Responding "HTTP/1.1 200 OK"
+173: not cacheable because cache-control: no-store
+181: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+181: Responding "HTTP/1.1 200 OK"
+182: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+183: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+184: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+182: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+183: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+185: "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:11 2020
+
+184: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+183: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+183: Responding "HTTP/1.1 200 OK"
+185: Requesting "POST http://ocsp.dcocsp.cn/ HTTP/1.1" from ocsp.dcocsp.cn
+184: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+184: Responding "HTTP/1.1 200 OK"
+185: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+185: Responding "HTTP/1.1 200 OK"
+182: Received "HTTP/1.1 200 OK" from ocsp.dcocsp.cn
+182: Responding "HTTP/1.1 200 OK"
+149: Tunnel closed
+149: Requesting "CONNECT d1.biz.itc.cn:443 HTTP/1.1" from d1.biz.itc.cn
+186: "CONNECT atanx.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+187: "CONNECT t4.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+188: "CONNECT t3.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+189: "CONNECT t4.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+155: Tunnel closed
+155: Requesting "CONNECT phs.tanx.com:443 HTTP/1.1" from phs.tanx.com
+161: Tunnel closed
+161: Requesting "CONNECT phs.tanx.com:443 HTTP/1.1" from phs.tanx.com
+179: Tunnel closed
+179: Requesting "CONNECT imp.optaim.com:443 HTTP/1.1" from imp.optaim.com
+180: Tunnel closed
+180: Requesting "CONNECT imp.optaim.com:443 HTTP/1.1" from imp.optaim.com
+169: Tunnel closed
+169: Requesting "CONNECT imp.optaim.com:443 HTTP/1.1" from imp.optaim.com
+190: "POST http://ocsp.globalsign.com/gsrsaovsslca2018 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+191: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+190: Requesting "POST http://ocsp.globalsign.com/gsrsaovsslca2018 HTTP/1.1" from ocsp.globalsign.com
+192: "CONNECT atanx.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+190: Received "HTTP/1.1 200 OK" from ocsp.globalsign.com
+190: Responding "HTTP/1.1 200 OK"
+191: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+191: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+191: Responding "HTTP/1.1 200 OK"
+193: "CONNECT jincai.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+194: "CONNECT opehs.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+195: "CONNECT opehs.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+196: "CONNECT opehs.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+197: "CONNECT adv-sv-stat.focus.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+198: "CONNECT t3.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+199: "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_5.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+200: "GET http://i2.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_11.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+201: "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_7.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+202: "GET http://i1.itc.cn/20131017/2f7b_3b5281f7_295d_5be8_bc53_6a379944313f_5.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+203: "GET http://sports.sohu.com/upload/nbalogo/magic.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+204: "GET http://sports.sohu.com/upload/nbalogo/timberwolves.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+205: "GET http://i1.itc.cn/20130506/2f41_9d0ee937_cc9a_4d74_b8fb_f0e2ada905bb_2.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+206: "GET http://sports.sohu.com/upload/nbalogo/lakers.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+207: "GET http://sports.sohu.com/upload/nbalogo/blazers.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+208: "GET http://sports.sohu.com/upload/nbalogo/pacers.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+209: "GET http://sports.sohu.com/upload/nbalogo/thunder.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+210: "GET http://sports.sohu.com/upload/nbalogo/kings.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:12 2020
+
+171: Tunnel closed
+171: Requesting "CONNECT imp.optaim.com:443 HTTP/1.1" from imp.optaim.com
+199: not in cache
+199: Requesting "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_5.jpg HTTP/1.1" from i3.itc.cn
+199: Received "HTTP/1.1 200 OK" from i3.itc.cn
+199: Responding "HTTP/1.1 200 OK"
+203: not in cache
+203: Requesting "GET http://sports.sohu.com/upload/nbalogo/magic.jpg HTTP/1.1" from sports.sohu.com
+207: not in cache
+207: Requesting "GET http://sports.sohu.com/upload/nbalogo/blazers.jpg HTTP/1.1" from sports.sohu.com
+206: not in cache
+206: Requesting "GET http://sports.sohu.com/upload/nbalogo/lakers.jpg HTTP/1.1" from sports.sohu.com
+210: not in cache
+210: Requesting "GET http://sports.sohu.com/upload/nbalogo/kings.jpg HTTP/1.1" from sports.sohu.com
+187: Tunnel closed
+187: Requesting "CONNECT t4.focus-img.cn:443 HTTP/1.1" from t4.focus-img.cn
+211: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+211: not in cache
+211: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+188: Tunnel closed
+188: Requesting "CONNECT t3.focus-img.cn:443 HTTP/1.1" from t3.focus-img.cn
+203: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+203: Responding "HTTP/1.1 307 Temporary Redirect"
+211: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+211: Responding "HTTP/1.1 200 OK"
+211: not cacheable because cache-control: no-store
+207: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+207: Responding "HTTP/1.1 307 Temporary Redirect"
+212: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+210: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+210: Responding "HTTP/1.1 307 Temporary Redirect"
+206: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+206: Responding "HTTP/1.1 307 Temporary Redirect"
+213: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+212: not in cache
+212: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+213: not in cache
+213: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+212: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+212: Responding "HTTP/1.1 200 OK"
+212: not cacheable because cache-control: no-store
+213: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+213: Responding "HTTP/1.1 200 OK"
+213: not cacheable because cache-control: no-store
+214: "CONNECT sports.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+215: "CONNECT sports.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+205: not in cache
+205: Requesting "GET http://i1.itc.cn/20130506/2f41_9d0ee937_cc9a_4d74_b8fb_f0e2ada905bb_2.jpg HTTP/1.1" from i1.itc.cn
+216: "CONNECT sports.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+217: "CONNECT sports.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+205: Received "HTTP/1.1 200 OK" from i1.itc.cn
+205: Responding "HTTP/1.1 200 OK"
+202: not in cache
+202: Requesting "GET http://i1.itc.cn/20131017/2f7b_3b5281f7_295d_5be8_bc53_6a379944313f_5.jpg HTTP/1.1" from i1.itc.cn
+202: Received "HTTP/1.1 200 OK" from i1.itc.cn
+202: Responding "HTTP/1.1 200 OK"
+189: Tunnel closed
+189: Requesting "CONNECT t4.focus-img.cn:443 HTTP/1.1" from t4.focus-img.cn
+218: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+218: not in cache
+218: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+192: Tunnel closed
+192: Requesting "CONNECT atanx.alicdn.com:443 HTTP/1.1" from atanx.alicdn.com
+218: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+218: Responding "HTTP/1.1 200 OK"
+218: not cacheable because cache-control: no-store
+220: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+219: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+220: not in cache
+220: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+219: not in cache
+219: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+220: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+220: Responding "HTTP/1.1 200 OK"
+220: not cacheable because cache-control: no-store
+214: Tunnel closed
+214: Requesting "CONNECT sports.sohu.com:443 HTTP/1.1" from sports.sohu.com
+219: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+219: Responding "HTTP/1.1 200 OK"
+219: not cacheable because cache-control: no-store
+215: Tunnel closed
+215: Requesting "CONNECT sports.sohu.com:443 HTTP/1.1" from sports.sohu.com
+216: Tunnel closed
+216: Requesting "CONNECT sports.sohu.com:443 HTTP/1.1" from sports.sohu.com
+194: Tunnel closed
+194: Requesting "CONNECT opehs.tanx.com:443 HTTP/1.1" from opehs.tanx.com
+221: "CONNECT df.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+222: "GET http://statics.itc.cn/sohu-homepage/oldentrancetwobg.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+222: not in cache
+222: Requesting "GET http://statics.itc.cn/sohu-homepage/oldentrancetwobg.png HTTP/1.1" from statics.itc.cn
+222: Received "HTTP/1.1 200 OK" from statics.itc.cn
+222: Responding "HTTP/1.1 200 OK"
+223: "CONNECT a1.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+200: not in cache
+200: Requesting "GET http://i2.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_11.jpg HTTP/1.1" from i2.itc.cn
+201: not in cache
+201: Requesting "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_7.jpg HTTP/1.1" from i3.itc.cn
+200: Received "HTTP/1.1 200 OK" from i2.itc.cn
+200: Responding "HTTP/1.1 200 OK"
+201: Received "HTTP/1.1 200 OK" from i3.itc.cn
+201: Responding "HTTP/1.1 200 OK"
+209: not in cache
+209: Requesting "GET http://sports.sohu.com/upload/nbalogo/thunder.jpg HTTP/1.1" from sports.sohu.com
+208: not in cache
+208: Requesting "GET http://sports.sohu.com/upload/nbalogo/pacers.jpg HTTP/1.1" from sports.sohu.com
+204: not in cache
+204: Requesting "GET http://sports.sohu.com/upload/nbalogo/timberwolves.jpg HTTP/1.1" from sports.sohu.com
+224: "CONNECT df.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:13 2020
+
+225: "CONNECT a1.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+226: "CONNECT df.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+209: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+209: Responding "HTTP/1.1 307 Temporary Redirect"
+208: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+208: Responding "HTTP/1.1 307 Temporary Redirect"
+204: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+204: Responding "HTTP/1.1 307 Temporary Redirect"
+198: Tunnel closed
+198: Requesting "CONNECT t3.focus-img.cn:443 HTTP/1.1" from t3.focus-img.cn
+227: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+227: not in cache
+227: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+227: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+227: Responding "HTTP/1.1 200 OK"
+227: not cacheable because cache-control: no-store
+228: "CONNECT a1.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+229: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+230: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+229: not in cache
+229: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+230: not in cache
+230: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+231: "CONNECT wn.pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+229: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+229: Responding "HTTP/1.1 200 OK"
+229: not cacheable because cache-control: no-store
+230: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+230: Responding "HTTP/1.1 200 OK"
+230: not cacheable because cache-control: no-store
+232: "CONNECT log.mmstat.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+233: "CONNECT m.simba.taobao.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+225: Tunnel closed
+225: Requesting "CONNECT a1.alicdn.com:443 HTTP/1.1" from a1.alicdn.com
+228: Tunnel closed
+228: Requesting "CONNECT a1.alicdn.com:443 HTTP/1.1" from a1.alicdn.com
+234: "CONNECT m.simba.taobao.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+235: "CONNECT m.simba.taobao.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+236: "CONNECT wn.pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+237: "CONNECT t10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+238: "CONNECT t10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+239: "CONNECT t10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+240: "CONNECT t12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+241: "CONNECT t12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+242: "CONNECT t12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+243: "CONNECT f11.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+244: "CONNECT f10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+245: "CONNECT t11.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+246: "CONNECT t10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+247: "CONNECT t11.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+248: "CONNECT wn.pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+249: "CONNECT t10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+250: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+252: "CONNECT t10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+251: "CONNECT t12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+253: "CONNECT t12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+254: "CONNECT f12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+255: "CONNECT t12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:14 2020
+
+250: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+250: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+250: Responding "HTTP/1.1 200 OK"
+256: "CONNECT wn.pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+257: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+258: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+257: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+258: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+257: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+257: Responding "HTTP/1.1 200 OK"
+258: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+258: Responding "HTTP/1.1 200 OK"
+259: "CONNECT f10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+260: "CONNECT t11.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+261: "CONNECT pcookie.tanx.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+235: Tunnel closed
+235: Requesting "CONNECT m.simba.taobao.com:443 HTTP/1.1" from m.simba.taobao.com
+247: Tunnel closed
+247: Requesting "CONNECT t11.baidu.com:443 HTTP/1.1" from t11.baidu.com
+241: Tunnel closed
+241: Requesting "CONNECT t12.baidu.com:443 HTTP/1.1" from t12.baidu.com
+252: Tunnel closed
+252: Requesting "CONNECT t10.baidu.com:443 HTTP/1.1" from t10.baidu.com
+249: Tunnel closed
+249: Requesting "CONNECT t10.baidu.com:443 HTTP/1.1" from t10.baidu.com
+262: "CONNECT gma.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+246: Tunnel closed
+246: Requesting "CONNECT t10.baidu.com:443 HTTP/1.1" from t10.baidu.com
+253: Tunnel closed
+253: Requesting "CONNECT t12.baidu.com:443 HTTP/1.1" from t12.baidu.com
+251: Tunnel closed
+251: Requesting "CONNECT t12.baidu.com:443 HTTP/1.1" from t12.baidu.com
+234: Tunnel closed
+234: Requesting "CONNECT m.simba.taobao.com:443 HTTP/1.1" from m.simba.taobao.com
+255: Tunnel closed
+255: Requesting "CONNECT t12.baidu.com:443 HTTP/1.1" from t12.baidu.com
+260: Tunnel closed
+260: Requesting "CONNECT t11.baidu.com:443 HTTP/1.1" from t11.baidu.com
+259: Tunnel closed
+259: Requesting "CONNECT f10.baidu.com:443 HTTP/1.1" from f10.baidu.com
+263: "CONNECT strip.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+264: "CONNECT strip.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:15 2020
+
+224: Tunnel closed
+224: Requesting "CONNECT df.tanx.com:443 HTTP/1.1" from df.tanx.com
+242: Tunnel closed
+242: Requesting "CONNECT t12.baidu.com:443 HTTP/1.1" from t12.baidu.com
+237: Tunnel closed
+237: Requesting "CONNECT t10.baidu.com:443 HTTP/1.1" from t10.baidu.com
+238: Tunnel closed
+238: Requesting "CONNECT t10.baidu.com:443 HTTP/1.1" from t10.baidu.com
+265: "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:16 2020
+
+265: Requesting "POST http://ocsp2.globalsign.com/gsorganizationvalsha2g2 HTTP/1.1" from ocsp2.globalsign.com
+265: Received "HTTP/1.1 200 OK" from ocsp2.globalsign.com
+265: Responding "HTTP/1.1 200 OK"
+221: Tunnel closed
+221: Requesting "CONNECT df.tanx.com:443 HTTP/1.1" from df.tanx.com
+263: Tunnel closed
+263: Requesting "CONNECT strip.alicdn.com:443 HTTP/1.1" from strip.alicdn.com
+196: Tunnel closed
+196: Requesting "CONNECT opehs.tanx.com:443 HTTP/1.1" from opehs.tanx.com
+266: "CONNECT dup.baidustatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:19 2020
+
+267: "CONNECT gtms03.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:19 2020
+
+261: Tunnel closed
+268: "CONNECT gtms01.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:22 2020
+
+124: Tunnel closed
+136: Tunnel closed
+269: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:24 2020
+
+137: Tunnel closed
+139: Tunnel closed
+159: Tunnel closed
+138: Tunnel closed
+239: Tunnel closed
+243: Tunnel closed
+254: Tunnel closed
+160: Tunnel closed
+160: Requesting "CONNECT e8aeb8bbdbbd7.cdn.sohucs.com:443 HTTP/1.1" from e8aeb8bbdbbd7.cdn.sohucs.com
+193: Tunnel closed
+270: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+271: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+272: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+273: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+269: Tunnel closed
+269: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+274: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_0,y_0,w_525,h_350/os/news/25c06ac7c7a08d40eab67e0a9c3bf731.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+275: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_2,y_0,w_421,h_280/os/news/3c0ccb6206134c80ad29a875650c11ce.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+276: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_70,y_3,w_794,h_530/os/news/bbf69d3287cda2dcb7f940b9ca0b996f.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+277: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_30,y_24,w_389,h_259/os/news/591664cd37e92de5628cc609ed228b9d.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+274: in cache, requires validation
+274: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_0,y_0,w_525,h_350/os/news/25c06ac7c7a08d40eab67e0a9c3bf731.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+278: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_799,h_533/os/news/491cc694f651b6ca48ff6623e8bac902.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+279: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_637,h_425/os/news/ce91714abf3145fe4a7342ca91665e0e.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+280: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_1269,h_846/os/news/758755a2d7c7bea4b2a7d682730fd42b.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+281: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_160/c_cut,x_0,y_33,w_552,h_276/os/news/bd55bf41c3c3940a246d6dba44386a16.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+275: in cache, requires validation
+275: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_2,y_0,w_421,h_280/os/news/3c0ccb6206134c80ad29a875650c11ce.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+276: in cache, requires validation
+276: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_213/c_cut,x_70,y_3,w_794,h_530/os/news/bbf69d3287cda2dcb7f940b9ca0b996f.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+282: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_4,y_12,w_1471,h_980/os/news/9f92ee0f1e133c4ee6561a58f5d1837f.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+277: in cache, requires validation
+277: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_30,y_24,w_389,h_259/os/news/591664cd37e92de5628cc609ed228b9d.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+274: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+278: in cache, requires validation
+278: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_799,h_533/os/news/491cc694f651b6ca48ff6623e8bac902.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+283: "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_6,w_1550,h_1033/os/news/c21f51bb6a5037b8fa1af01b74a0c9c1.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+284: "GET http://statics.itc.cn/sohu-homepage/oldentrancetwo.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+275: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+276: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+280: in cache, requires validation
+280: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_1269,h_846/os/news/758755a2d7c7bea4b2a7d682730fd42b.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+279: in cache, requires validation
+279: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_0,w_637,h_425/os/news/ce91714abf3145fe4a7342ca91665e0e.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+281: in cache, requires validation
+281: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_160/c_cut,x_0,y_33,w_552,h_276/os/news/bd55bf41c3c3940a246d6dba44386a16.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+277: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+282: in cache, requires validation
+282: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_4,y_12,w_1471,h_980/os/news/9f92ee0f1e133c4ee6561a58f5d1837f.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+278: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+270: Tunnel closed
+270: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+283: in cache, requires validation
+283: Requesting "GET http://29e5534ea20a8.cdn.sohucs.com/c_zoom,h_103/c_cut,x_0,y_6,w_1550,h_1033/os/news/c21f51bb6a5037b8fa1af01b74a0c9c1.jpg HTTP/1.1" from 29e5534ea20a8.cdn.sohucs.com
+284: in cache, requires validation
+284: Requesting "GET http://statics.itc.cn/sohu-homepage/oldentrancetwo.png HTTP/1.1" from statics.itc.cn
+281: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+280: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+279: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+282: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+271: Tunnel closed
+271: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+273: Tunnel closed
+273: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+283: Received "HTTP/1.1 304 Not Modified" from 29e5534ea20a8.cdn.sohucs.com
+284: Received "HTTP/1.1 304 Not Modified" from statics.itc.cn
+286: "CONNECT statics.itc.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+285: "GET http://www.sohu.com/upload/images/server/ghs.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:37 2020
+
+285: in cache, requires validation
+285: Requesting "GET http://www.sohu.com/upload/images/server/ghs.png HTTP/1.1" from www.sohu.com
+285: Received "HTTP/1.1 304 Not Modified" from www.sohu.com
+287: "GET http://imp.optaim.com/201612/d5710e4e5ad6a4b1195bf96d138279ee.php?a=155 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:38 2020
+
+287: in cache, requires validation
+287: Requesting "GET http://imp.optaim.com/201612/d5710e4e5ad6a4b1195bf96d138279ee.php?a=155 HTTP/1.1" from imp.optaim.com
+288: "CONNECT t.go.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:38 2020
+
+290: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:38 2020
+
+289: "GET http://imp.ad-plus.cn/201111/ee4f7cebb2ef825bf6b3c8730c929929.php?a=24 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:38 2020
+
+287: Received "HTTP/1.1 200 OK" from imp.optaim.com
+287: Responding "HTTP/1.1 200 OK"
+287: cached, but requires re-validation 
+291: "CONNECT jincai.sohu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:38 2020
+
+292: "CONNECT file.focus-res.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+272: Tunnel closed
+272: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+293: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+294: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+295: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+292: Tunnel closed
+292: Requesting "CONNECT file.focus-res.cn:443 HTTP/1.1" from file.focus-res.cn
+297: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+297: not in cache
+297: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+296: "CONNECT pos.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+297: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+297: Responding "HTTP/1.1 200 OK"
+297: not cacheable because cache-control: no-store
+298: "CONNECT t3.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+299: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+300: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+299: not in cache
+299: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+299: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+299: Responding "HTTP/1.1 200 OK"
+299: not cacheable because cache-control: no-store
+300: not in cache
+300: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+300: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+300: Responding "HTTP/1.1 200 OK"
+300: not cacheable because cache-control: no-store
+298: Tunnel closed
+298: Requesting "CONNECT t3.focus-img.cn:443 HTTP/1.1" from t3.focus-img.cn
+301: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+301: not in cache
+301: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+302: "CONNECT t4.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+301: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+301: Responding "HTTP/1.1 200 OK"
+301: not cacheable because cache-control: no-store
+303: "CONNECT t3.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+304: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+305: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+289: in cache, requires validation
+289: Requesting "GET http://imp.ad-plus.cn/201111/ee4f7cebb2ef825bf6b3c8730c929929.php?a=24 HTTP/1.1" from imp.ad-plus.cn
+306: "CONNECT t4.focus-img.cn:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+304: not in cache
+304: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+305: not in cache
+305: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+304: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+304: Responding "HTTP/1.1 200 OK"
+304: not cacheable because cache-control: no-store
+305: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+305: Responding "HTTP/1.1 200 OK"
+305: not cacheable because cache-control: no-store
+303: Tunnel closed
+303: Requesting "CONNECT t3.focus-img.cn:443 HTTP/1.1" from t3.focus-img.cn
+306: Tunnel closed
+306: Requesting "CONNECT t4.focus-img.cn:443 HTTP/1.1" from t4.focus-img.cn
+307: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:39 2020
+
+307: not in cache
+307: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+307: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+307: Responding "HTTP/1.1 200 OK"
+307: not cacheable because cache-control: no-store
+308: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+309: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+310: "GET http://statics.itc.cn/web/static/images/pic/preload.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+308: not in cache
+308: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+309: not in cache
+309: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+308: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+308: Responding "HTTP/1.1 200 OK"
+308: not cacheable because cache-control: no-store
+309: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+309: Responding "HTTP/1.1 200 OK"
+309: not cacheable because cache-control: no-store
+310: in cache, requires validation
+310: Requesting "GET http://statics.itc.cn/web/static/images/pic/preload.png HTTP/1.1" from statics.itc.cn
+310: Received "HTTP/1.1 304 Not Modified" from statics.itc.cn
+289: Received "HTTP/1.1 304 Not Modified" from imp.ad-plus.cn
+311: "GET http://q.stock.sohu.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+302: Tunnel closed
+302: Requesting "CONNECT t4.focus-img.cn:443 HTTP/1.1" from t4.focus-img.cn
+312: "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+312: not in cache
+312: Requesting "GET http://detectportal.firefox.com/success.txt HTTP/1.1" from detectportal.firefox.com
+312: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+312: Responding "HTTP/1.1 200 OK"
+312: not cacheable because cache-control: no-store
+314: "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+313: "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+314: not in cache
+314: Requesting "GET http://detectportal.firefox.com/success.txt?ipv6 HTTP/1.1" from detectportal.firefox.com
+313: not in cache
+313: Requesting "GET http://detectportal.firefox.com/success.txt?ipv4 HTTP/1.1" from detectportal.firefox.com
+314: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+314: Responding "HTTP/1.1 200 OK"
+314: not cacheable because cache-control: no-store
+313: Received "HTTP/1.1 200 OK" from detectportal.firefox.com
+313: Responding "HTTP/1.1 200 OK"
+313: not cacheable because cache-control: no-store
+315: "CONNECT atanx2.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+316: "CONNECT f11.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+317: "CONNECT t10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+318: "CONNECT f12.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+319: "CONNECT atanx2.alicdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:40 2020
+
+311: not in cache
+311: Requesting "GET http://q.stock.sohu.com/ HTTP/1.1" from q.stock.sohu.com
+319: Tunnel closed
+319: Requesting "CONNECT atanx2.alicdn.com:443 HTTP/1.1" from atanx2.alicdn.com
+311: Received "HTTP/1.1 200 OK" from q.stock.sohu.com
+311: Responding "HTTP/1.1 200 OK"
+320: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:41 2020
+
+244: Tunnel closed
+321: "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_5.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:42 2020
+
+322: "GET http://i2.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_11.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:42 2020
+
+323: "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_7.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:42 2020
+
+321: in cache, requires validation
+321: Requesting "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_5.jpg HTTP/1.1" from i3.itc.cn
+324: "GET http://i1.itc.cn/20131017/2f7b_3b5281f7_295d_5be8_bc53_6a379944313f_5.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:42 2020
+
+325: "GET http://sports.sohu.com/upload/nbalogo/magic.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:42 2020
+
+323: in cache, requires validation
+323: Requesting "GET http://i3.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_7.jpg HTTP/1.1" from i3.itc.cn
+321: Received "HTTP/1.1 304 Not Modified" from i3.itc.cn
+326: "GET http://sports.sohu.com/upload/nbalogo/timberwolves.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:42 2020
+
+327: "GET http://i1.itc.cn/20130506/2f41_9d0ee937_cc9a_4d74_b8fb_f0e2ada905bb_2.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+323: Received "HTTP/1.1 304 Not Modified" from i3.itc.cn
+328: "GET http://sports.sohu.com/upload/nbalogo/lakers.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+329: "GET http://sports.sohu.com/upload/nbalogo/pacers.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+327: in cache, requires validation
+327: Requesting "GET http://i1.itc.cn/20130506/2f41_9d0ee937_cc9a_4d74_b8fb_f0e2ada905bb_2.jpg HTTP/1.1" from i1.itc.cn
+324: in cache, requires validation
+324: Requesting "GET http://i1.itc.cn/20131017/2f7b_3b5281f7_295d_5be8_bc53_6a379944313f_5.jpg HTTP/1.1" from i1.itc.cn
+330: "GET http://sports.sohu.com/upload/nbalogo/blazers.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+331: "GET http://sports.sohu.com/upload/nbalogo/thunder.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+327: Received "HTTP/1.1 304 Not Modified" from i1.itc.cn
+324: Received "HTTP/1.1 304 Not Modified" from i1.itc.cn
+332: "GET http://sports.sohu.com/upload/nbalogo/kings.jpg HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+325: not in cache
+325: Requesting "GET http://sports.sohu.com/upload/nbalogo/magic.jpg HTTP/1.1" from sports.sohu.com
+326: not in cache
+326: Requesting "GET http://sports.sohu.com/upload/nbalogo/timberwolves.jpg HTTP/1.1" from sports.sohu.com
+328: not in cache
+328: Requesting "GET http://sports.sohu.com/upload/nbalogo/lakers.jpg HTTP/1.1" from sports.sohu.com
+329: not in cache
+329: Requesting "GET http://sports.sohu.com/upload/nbalogo/pacers.jpg HTTP/1.1" from sports.sohu.com
+330: not in cache
+330: Requesting "GET http://sports.sohu.com/upload/nbalogo/blazers.jpg HTTP/1.1" from sports.sohu.com
+331: not in cache
+331: Requesting "GET http://sports.sohu.com/upload/nbalogo/thunder.jpg HTTP/1.1" from sports.sohu.com
+325: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+325: Responding "HTTP/1.1 307 Temporary Redirect"
+332: not in cache
+332: Requesting "GET http://sports.sohu.com/upload/nbalogo/kings.jpg HTTP/1.1" from sports.sohu.com
+326: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+326: Responding "HTTP/1.1 307 Temporary Redirect"
+328: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+328: Responding "HTTP/1.1 307 Temporary Redirect"
+329: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+329: Responding "HTTP/1.1 307 Temporary Redirect"
+330: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+330: Responding "HTTP/1.1 307 Temporary Redirect"
+322: in cache, requires validation
+322: Requesting "GET http://i2.itc.cn/20151026/361c_f8b89b9c_02ef_dd1d_a0d0_65600cead191_11.jpg HTTP/1.1" from i2.itc.cn
+331: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+331: Responding "HTTP/1.1 307 Temporary Redirect"
+332: Received "HTTP/1.1 307 Temporary Redirect" from sports.sohu.com
+332: Responding "HTTP/1.1 307 Temporary Redirect"
+322: Received "HTTP/1.1 304 Not Modified" from i2.itc.cn
+333: "CONNECT f10.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+334: "GET http://statics.itc.cn/sohu-homepage/oldentrancetwobg.png HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:43 2020
+
+334: in cache, requires validation
+334: Requesting "GET http://statics.itc.cn/sohu-homepage/oldentrancetwobg.png HTTP/1.1" from statics.itc.cn
+334: Received "HTTP/1.1 304 Not Modified" from statics.itc.cn
+266: Tunnel closed
+72: Tunnel closed
+72: Requesting "CONNECT statics.itc.cn:443 HTTP/1.1" from statics.itc.cn
+79: Tunnel closed
+79: Requesting "CONNECT statics.itc.cn:443 HTTP/1.1" from statics.itc.cn
+294: Tunnel closed
+290: Tunnel closed
+293: Tunnel closed
+295: Tunnel closed
+296: Tunnel closed
+336: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:54 2020
+
+337: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:54 2020
+
+338: "CONNECT getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+339: "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+35: Tunnel closed
+339: Requesting "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from ocsp.sca1b.amazontrust.com
+339: Received "HTTP/1.1 200 OK" from ocsp.sca1b.amazontrust.com
+339: Responding "HTTP/1.1 200 OK"
+340: "CONNECT fdyn.pubwise.io:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+341: "CONNECT fdyn.pubwise.io:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+342: "CONNECT www.googletagmanager.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+343: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+346: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+347: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+348: "CONNECT a.optmnstr.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+349: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+349: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+349: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+349: Responding "HTTP/1.1 200 OK"
+341: Tunnel closed
+341: Requesting "CONNECT fdyn.pubwise.io:443 HTTP/1.1" from fdyn.pubwise.io
+345: "CONNECT pocket-syndicated-publisher-logos.s3.amazonaws.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+344: "CONNECT pocket-syndicated-images.s3.amazonaws.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+350: "CONNECT pocket-syndicated-images.s3.amazonaws.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+351: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+352: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+353: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:55 2020
+
+351: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+352: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+353: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+352: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+352: Responding "HTTP/1.1 200 OK"
+351: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+351: Responding "HTTP/1.1 200 OK"
+353: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+353: Responding "HTTP/1.1 200 OK"
+354: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+355: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+356: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+357: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+358: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+359: "CONNECT assets.getpocket.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+54: Tunnel closed
+54: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+360: "CONNECT etp-experiment-1.dummytracker.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+361: "CONNECT etp-experiment-2.dummytracker.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+362: "POST http://ocsp.int-x3.letsencrypt.org/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+363: "POST http://ocsp.int-x3.letsencrypt.org/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+362: Requesting "POST http://ocsp.int-x3.letsencrypt.org/ HTTP/1.1" from ocsp.int-x3.letsencrypt.org
+363: Requesting "POST http://ocsp.int-x3.letsencrypt.org/ HTTP/1.1" from ocsp.int-x3.letsencrypt.org
+362: Received "HTTP/1.1 200 OK" from ocsp.int-x3.letsencrypt.org
+362: Responding "HTTP/1.1 200 OK"
+363: Received "HTTP/1.1 200 OK" from ocsp.int-x3.letsencrypt.org
+363: Responding "HTTP/1.1 200 OK"
+364: "CONNECT www.google.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+365: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+365: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+366: "CONNECT api.opmnstr.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:56 2020
+
+365: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+365: Responding "HTTP/1.1 200 OK"
+42: Tunnel closed
+367: "CONNECT pocket-syndicated-publisher-logos.s3.amazonaws.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+368: "CONNECT images.fastcompany.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+369: "CONNECT s3.amazonaws.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+370: "CONNECT pocket-syndicated-publisher-logos.s3.amazonaws.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+371: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+371: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+371: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+371: Responding "HTTP/1.1 200 OK"
+372: "CONNECT fonts.gstatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+376: "CONNECT www.google-analytics.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+375: "CONNECT c.amazon-adsystem.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+374: "CONNECT pagead2.googlesyndication.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+373: "CONNECT securepubads.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+377: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+378: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:57 2020
+
+377: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+378: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+377: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+377: Responding "HTTP/1.1 200 OK"
+378: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+378: Responding "HTTP/1.1 200 OK"
+379: "CONNECT c.amazon-adsystem.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+380: "CONNECT adservice.google.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+381: "CONNECT hbopenbid.pubmatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+382: "CONNECT fastlane.rubiconproject.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+383: "CONNECT ib.adnxs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+384: "CONNECT ap.lijit.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+385: "CONNECT dmx.districtm.io:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+386: "CONNECT tlx.3lift.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+387: "CONNECT as-sec.casalemedia.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+388: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+391: "POST http://ocsp.sectigo.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+390: "POST http://ocsp.godaddy.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+389: "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+392: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:58 2020
+
+388: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+392: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+389: Requesting "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from ocsp.sca1b.amazontrust.com
+388: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+388: Responding "HTTP/1.1 200 OK"
+391: Requesting "POST http://ocsp.sectigo.com/ HTTP/1.1" from ocsp.sectigo.com
+390: Requesting "POST http://ocsp.godaddy.com/ HTTP/1.1" from ocsp.godaddy.com
+389: Received "HTTP/1.1 200 OK" from ocsp.sca1b.amazontrust.com
+389: Responding "HTTP/1.1 200 OK"
+392: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+392: Responding "HTTP/1.1 200 OK"
+391: Received "HTTP/1.1 200 OK" from ocsp.sectigo.com
+391: Responding "HTTP/1.1 200 OK"
+390: Received "HTTP/1.1 200 OK" from ocsp.godaddy.com
+390: Responding "HTTP/1.1 200 OK"
+393: "CONNECT api.pubwise.io:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:59 2020
+
+394: "POST http://ocsp.sectigo.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:59 2020
+
+394: Requesting "POST http://ocsp.sectigo.com/ HTTP/1.1" from ocsp.sectigo.com
+394: Received "HTTP/1.1 200 OK" from ocsp.sectigo.com
+394: Responding "HTTP/1.1 200 OK"
+52: Tunnel closed
+52: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+395: "CONNECT prebid.digitru.st:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:59 2020
+
+396: "CONNECT s.amazon-adsystem.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:12:59 2020
+
+397: "CONNECT cdn.ampproject.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+398: "CONNECT cdn.ampproject.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+399: "CONNECT cdn.ampproject.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+400: "CONNECT cdn.ampproject.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+401: "CONNECT cdn.ampproject.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+402: "CONNECT cdn.ampproject.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+406: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+405: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+404: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+403: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+406: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+405: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+404: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+403: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+407: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+405: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+405: Responding "HTTP/1.1 200 OK"
+406: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+406: Responding "HTTP/1.1 200 OK"
+404: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+404: Responding "HTTP/1.1 200 OK"
+403: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+403: Responding "HTTP/1.1 200 OK"
+407: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+407: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+407: Responding "HTTP/1.1 200 OK"
+400: Tunnel closed
+400: Requesting "CONNECT cdn.ampproject.org:443 HTTP/1.1" from cdn.ampproject.org
+399: Tunnel closed
+399: Requesting "CONNECT cdn.ampproject.org:443 HTTP/1.1" from cdn.ampproject.org
+398: Tunnel closed
+398: Requesting "CONNECT cdn.ampproject.org:443 HTTP/1.1" from cdn.ampproject.org
+402: Tunnel closed
+402: Requesting "CONNECT cdn.ampproject.org:443 HTTP/1.1" from cdn.ampproject.org
+401: Tunnel closed
+401: Requesting "CONNECT cdn.ampproject.org:443 HTTP/1.1" from cdn.ampproject.org
+410: "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+409: "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+408: "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+411: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+413: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+412: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+411: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+413: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+412: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+411: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+411: Responding "HTTP/1.1 200 OK"
+412: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+412: Responding "HTTP/1.1 200 OK"
+413: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+413: Responding "HTTP/1.1 200 OK"
+408: Tunnel closed
+408: Requesting "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from tpc.googlesyndication.com
+410: Tunnel closed
+410: Requesting "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from tpc.googlesyndication.com
+414: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:00 2020
+
+245: Tunnel closed
+316: Tunnel closed
+344: Tunnel closed
+344: Requesting "CONNECT pocket-syndicated-images.s3.amazonaws.com:443 HTTP/1.1" from pocket-syndicated-images.s3.amazonaws.com
+415: "CONNECT ads.pubmatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:02 2020
+
+416: "CONNECT eb2.3lift.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:02 2020
+
+417: "CONNECT eus.rubiconproject.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:02 2020
+
+418: "CONNECT cdn.districtm.io:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:02 2020
+
+419: "CONNECT acdn.adnxs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:02 2020
+
+420: "CONNECT secure.adnxs.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:13:03 2020
+
+345: Tunnel closed
+345: Requesting "CONNECT pocket-syndicated-publisher-logos.s3.amazonaws.com:443 HTTP/1.1" from pocket-syndicated-publisher-logos.s3.amazonaws.com
+240: Tunnel closed
+317: Tunnel closed
+370: Tunnel closed
+370: Requesting "CONNECT pocket-syndicated-publisher-logos.s3.amazonaws.com:443 HTTP/1.1" from pocket-syndicated-publisher-logos.s3.amazonaws.com
+367: Tunnel closed
+367: Requesting "CONNECT pocket-syndicated-publisher-logos.s3.amazonaws.com:443 HTTP/1.1" from pocket-syndicated-publisher-logos.s3.amazonaws.com
+350: Tunnel closed
+350: Requesting "CONNECT pocket-syndicated-images.s3.amazonaws.com:443 HTTP/1.1" from pocket-syndicated-images.s3.amazonaws.com
+369: Tunnel closed
+369: Requesting "CONNECT s3.amazonaws.com:443 HTTP/1.1" from s3.amazonaws.com
+382: Tunnel closed
+382: Requesting "CONNECT fastlane.rubiconproject.com:443 HTTP/1.1" from fastlane.rubiconproject.com
+318: Tunnel closed
+333: Tunnel closed
+383: Tunnel closed
+256: Tunnel closed
+236: Tunnel closed
+231: Tunnel closed
+420: Tunnel closed
+384: Tunnel closed
+248: Tunnel closed
+144: Tunnel closed
+320: Tunnel closed
+7: Tunnel closed
+7: Requesting "CONNECT firefox.settings.services.mozilla.com:443 HTTP/1.1" from firefox.settings.services.mozilla.com
+12: Tunnel closed
+12: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+57: Tunnel closed
+348: Tunnel closed
+85: Tunnel closed
+75: Tunnel closed
+80: Tunnel closed
+286: Tunnel closed
+291: Tunnel closed
+83: Tunnel closed
+113: Tunnel closed
+84: Tunnel closed
+82: Tunnel closed
+131: Tunnel closed
+126: Tunnel closed
+134: Tunnel closed
+127: Tunnel closed
+135: Tunnel closed
+130: Tunnel closed
+90: Tunnel closed
+89: Tunnel closed
+74: Tunnel closed
+156: Tunnel closed
+158: Tunnel closed
+146: Tunnel closed
+157: Tunnel closed
+197: Tunnel closed
+48: Tunnel closed
+48: Requesting "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from dvngeac8rg9mb.cloudfront.net
+47: Tunnel closed
+47: Requesting "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from dvngeac8rg9mb.cloudfront.net
+66: Tunnel closed
+66: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+64: Tunnel closed
+64: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+65: Tunnel closed
+65: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+59: Tunnel closed
+59: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+337: Tunnel closed
+337: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+336: Tunnel closed
+336: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+396: Tunnel closed
+421: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+422: "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+423: "CONNECT simplisafe.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+424: "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+424: Requesting "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from ocsp.sca1b.amazontrust.com
+424: Received "HTTP/1.1 200 OK" from ocsp.sca1b.amazontrust.com
+424: Responding "HTTP/1.1 200 OK"
+425: "CONNECT cdn.optimizely.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+426: "CONNECT connect.facebook.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+427: "CONNECT w.sharethis.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+428: "CONNECT s.sharethis.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+429: "CONNECT www.googleadservices.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:05 2020
+
+430: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:06 2020
+
+430: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+430: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+430: Responding "HTTP/1.1 200 OK"
+431: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:06 2020
+
+431: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+431: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+431: Responding "HTTP/1.1 200 OK"
+432: "CONNECT s.pinimg.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:06 2020
+
+440: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+439: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+438: "CONNECT l.sharethis.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+437: "CONNECT ws.sharethis.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+436: "CONNECT connect.facebook.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+435: "CONNECT sp.analytics.yahoo.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+434: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+433: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+433: Tunnel closed
+433: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+434: Tunnel closed
+434: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+440: Tunnel closed
+440: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+441: "CONNECT ssl.google-analytics.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+442: "CONNECT ct.pinterest.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+443: "CONNECT ct.pinterest.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+444: "CONNECT ct.pinterest.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+444: Tunnel closed
+444: Requesting "CONNECT ct.pinterest.com:443 HTTP/1.1" from ct.pinterest.com
+443: Tunnel closed
+443: Requesting "CONNECT ct.pinterest.com:443 HTTP/1.1" from ct.pinterest.com
+445: "CONNECT stats.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+446: "CONNECT c.sharethis.mgr.consensu.org:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+447: "CONNECT js-agent.newrelic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+448: "CONNECT bid.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+449: "CONNECT bid.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+449: Tunnel closed
+449: Requesting "CONNECT bid.g.doubleclick.net:443 HTTP/1.1" from bid.g.doubleclick.net
+450: "CONNECT logx.optimizely.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:07 2020
+
+451: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:08 2020
+
+451: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+451: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+451: Responding "HTTP/1.1 200 OK"
+452: "CONNECT www.facebook.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:08 2020
+
+453: "CONNECT bam.nr-data.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:08 2020
+
+454: "CONNECT t.sharethis.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:08 2020
+
+455: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:08 2020
+
+455: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+455: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+455: Responding "HTTP/1.1 200 OK"
+456: "CONNECT bam.nr-data.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:09 2020
+
+22: Tunnel closed
+22: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+14: Tunnel closed
+14: Requesting "CONNECT secure.gravatar.com:443 HTTP/1.1" from secure.gravatar.com
+28: Tunnel closed
+28: Requesting "CONNECT ssl.ptlogin2.qq.com:443 HTTP/1.1" from ssl.ptlogin2.qq.com
+27: Tunnel closed
+27: Requesting "CONNECT res.mail.qq.com:443 HTTP/1.1" from res.mail.qq.com
+30: Tunnel closed
+30: Requesting "CONNECT xui.ptlogin2.qq.com:443 HTTP/1.1" from xui.ptlogin2.qq.com
+26: Tunnel closed
+26: Requesting "CONNECT en.mail.qq.com:443 HTTP/1.1" from en.mail.qq.com
+38: Tunnel closed
+38: Requesting "CONNECT cdn-go.cn:443 HTTP/1.1" from cdn-go.cn
+29: Tunnel closed
+29: Requesting "CONNECT ui.ptlogin2.qq.com:443 HTTP/1.1" from ui.ptlogin2.qq.com
+43: Tunnel closed
+43: Requesting "CONNECT captcha.gtimg.com:443 HTTP/1.1" from captcha.gtimg.com
+21: Tunnel closed
+21: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+457: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:37 2020
+
+457: Tunnel closed
+457: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+450: Tunnel closed
+450: Requesting "CONNECT logx.optimizely.com:443 HTTP/1.1" from logx.optimizely.com
+120: Tunnel closed
+120: Requesting "CONNECT s.go.sohu.com:443 HTTP/1.1" from s.go.sohu.com
+119: Tunnel closed
+119: Requesting "CONNECT s.go.sohu.com:443 HTTP/1.1" from s.go.sohu.com
+118: Tunnel closed
+118: Requesting "CONNECT s.go.sohu.com:443 HTTP/1.1" from s.go.sohu.com
+117: Tunnel closed
+117: Requesting "CONNECT s.go.sohu.com:443 HTTP/1.1" from s.go.sohu.com
+116: Tunnel closed
+116: Requesting "CONNECT s.go.sohu.com:443 HTTP/1.1" from s.go.sohu.com
+115: Tunnel closed
+115: Requesting "CONNECT s.go.sohu.com:443 HTTP/1.1" from s.go.sohu.com
+170: Tunnel closed
+170: Requesting "CONNECT i.go.sohu.com:443 HTTP/1.1" from i.go.sohu.com
+177: Tunnel closed
+177: Requesting "CONNECT i.go.sohu.com:443 HTTP/1.1" from i.go.sohu.com
+175: Tunnel closed
+175: Requesting "CONNECT i.go.sohu.com:443 HTTP/1.1" from i.go.sohu.com
+114: Tunnel closed
+114: Requesting "CONNECT i.go.sohu.com:443 HTTP/1.1" from i.go.sohu.com
+112: Tunnel closed
+112: Requesting "CONNECT i.go.sohu.com:443 HTTP/1.1" from i.go.sohu.com
+176: Tunnel closed
+176: Requesting "CONNECT i.go.sohu.com:443 HTTP/1.1" from i.go.sohu.com
+459: "GET http://people.duke.edu/~bmr HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:45 2020
+
+459: not in cache
+459: Requesting "GET http://people.duke.edu/~bmr HTTP/1.1" from people.duke.edu
+459: Received "HTTP/1.1 404 Not Found" from people.duke.edu
+459: Responding "HTTP/1.1 404 Not Found"
+460: "GET http://people.duke.edu/favicon.ico HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:45 2020
+
+460: not in cache
+460: Requesting "GET http://people.duke.edu/favicon.ico HTTP/1.1" from people.duke.edu
+460: Received "HTTP/1.1 404 Not Found" from people.duke.edu
+460: Responding "HTTP/1.1 404 Not Found"
+425: Tunnel closed
+347: Tunnel closed
+347: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+343: Tunnel closed
+343: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+346: Tunnel closed
+346: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+355: Tunnel closed
+355: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+354: Tunnel closed
+354: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+358: Tunnel closed
+358: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+357: Tunnel closed
+357: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+356: Tunnel closed
+356: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+387: Tunnel closed
+387: Requesting "CONNECT as-sec.casalemedia.com:443 HTTP/1.1" from as-sec.casalemedia.com
+461: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:55 2020
+
+61: Tunnel closed
+61: Requesting "CONNECT safebrowsing.googleapis.com:443 HTTP/1.1" from safebrowsing.googleapis.com
+415: Tunnel closed
+415: Requesting "CONNECT ads.pubmatic.com:443 HTTP/1.1" from ads.pubmatic.com
+417: Tunnel closed
+417: Requesting "CONNECT eus.rubiconproject.com:443 HTTP/1.1" from eus.rubiconproject.com
+419: Tunnel closed
+419: Requesting "CONNECT acdn.adnxs.com:443 HTTP/1.1" from acdn.adnxs.com
+462: "GET http://people.duke.edu/~bmr23 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:59 2020
+
+462: not in cache
+462: Requesting "GET http://people.duke.edu/~bmr23 HTTP/1.1" from people.duke.edu
+462: Received "HTTP/1.1 301 Moved Permanently" from people.duke.edu
+462: Responding "HTTP/1.1 301 Moved Permanently"
+463: "GET http://people.duke.edu/~bmr23/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:59 2020
+
+463: not in cache
+463: Requesting "GET http://people.duke.edu/~bmr23/ HTTP/1.1" from people.duke.edu
+463: Received "HTTP/1.1 200 OK" from people.duke.edu
+463: Responding "HTTP/1.1 200 OK"
+464: "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:14:59 2020
+
+464: not in cache
+464: Requesting "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" from people.duke.edu
+464: Received "HTTP/1.1 200 OK" from people.duke.edu
+464: Responding "HTTP/1.1 200 OK"
+359: Tunnel closed
+359: Requesting "CONNECT assets.getpocket.com:443 HTTP/1.1" from assets.getpocket.com
+104: Tunnel closed
+104: Requesting "CONNECT v4.passport.sohu.com:443 HTTP/1.1" from v4.passport.sohu.com
+465: "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:01 2020
+
+465: not in cache
+465: Requesting "GET http://people.duke.edu/~bmr23/ece568/class.html HTTP/1.1" from people.duke.edu
+465: Received "HTTP/1.1 200 OK" from people.duke.edu
+465: Responding "HTTP/1.1 200 OK"
+125: Tunnel closed
+125: Requesting "CONNECT jincai.sohu.com:443 HTTP/1.1" from jincai.sohu.com
+232: Tunnel closed
+232: Requesting "CONNECT log.mmstat.com:443 HTTP/1.1" from log.mmstat.com
+264: Tunnel closed
+264: Requesting "CONNECT strip.alicdn.com:443 HTTP/1.1" from strip.alicdn.com
+438: Tunnel closed
+438: Requesting "CONNECT l.sharethis.com:443 HTTP/1.1" from l.sharethis.com
+267: Tunnel closed
+267: Requesting "CONNECT gtms03.alicdn.com:443 HTTP/1.1" from gtms03.alicdn.com
+268: Tunnel closed
+268: Requesting "CONNECT gtms01.alicdn.com:443 HTTP/1.1" from gtms01.alicdn.com
+467: "GET http://people.duke.edu/~bmr23/ece568/syllabus.pdf HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:13 2020
+
+467: not in cache
+467: Requesting "GET http://people.duke.edu/~bmr23/ece568/syllabus.pdf HTTP/1.1" from people.duke.edu
+467: Received "HTTP/1.1 200 OK" from people.duke.edu
+467: Responding "HTTP/1.1 200 OK"
+469: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:19 2020
+
+469: Tunnel closed
+469: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+81: Tunnel closed
+81: Requesting "CONNECT js.sohu.com:443 HTTP/1.1" from js.sohu.com
+78: Tunnel closed
+78: Requesting "CONNECT cpro.baidustatic.com:443 HTTP/1.1" from cpro.baidustatic.com
+77: Tunnel closed
+77: Requesting "CONNECT txt.go.sohu.com:443 HTTP/1.1" from txt.go.sohu.com
+76: Tunnel closed
+76: Requesting "CONNECT 39d0825d09f05.cdn.sohucs.com:443 HTTP/1.1" from 39d0825d09f05.cdn.sohucs.com
+70: Tunnel closed
+70: Requesting "CONNECT www.sohu.com:443 HTTP/1.1" from www.sohu.com
+109: Tunnel closed
+109: Requesting "CONNECT pv.sohu.com:443 HTTP/1.1" from pv.sohu.com
+111: Tunnel closed
+111: Requesting "CONNECT imp.go.sohu.com:443 HTTP/1.1" from imp.go.sohu.com
+129: Tunnel closed
+129: Requesting "CONNECT k.sohu.com:443 HTTP/1.1" from k.sohu.com
+128: Tunnel closed
+128: Requesting "CONNECT pl.hd.sohu.com:443 HTTP/1.1" from pl.hd.sohu.com
+141: Tunnel closed
+141: Requesting "CONNECT ydgf.sohu.com:443 HTTP/1.1" from ydgf.sohu.com
+152: Tunnel closed
+152: Requesting "CONNECT hqm.stock.sohu.com:443 HTTP/1.1" from hqm.stock.sohu.com
+150: Tunnel closed
+150: Requesting "CONNECT d1.biz.itc.cn:443 HTTP/1.1" from d1.biz.itc.cn
+133: Tunnel closed
+133: Requesting "CONNECT news.sohu.com:443 HTTP/1.1" from news.sohu.com
+288: Tunnel closed
+288: Requesting "CONNECT t.go.sohu.com:443 HTTP/1.1" from t.go.sohu.com
+470: "GET http://dukehub.duke.edu/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:30 2020
+
+470: not in cache
+470: Requesting "GET http://dukehub.duke.edu/ HTTP/1.1" from dukehub.duke.edu
+470: Received "HTTP/1.0 302 Found" from dukehub.duke.edu
+470: Responding "HTTP/1.0 302 Found"
+471: "CONNECT dukehub.duke.eduhttp:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:30 2020
+
+471: ERROR "creating client socket failed"
+471: Responding HTTP/1.1 400 Bad Request
+472: "POST http://ocsp.digicert.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:30 2020
+
+472: Requesting "POST http://ocsp.digicert.com/ HTTP/1.1" from ocsp.digicert.com
+472: Received "HTTP/1.1 200 OK" from ocsp.digicert.com
+472: Responding "HTTP/1.1 200 OK"
+106: Tunnel closed
+106: Requesting "CONNECT v2.sohu.com:443 HTTP/1.1" from v2.sohu.com
+140: Tunnel closed
+140: Requesting "CONNECT 643108e7617ef.cdn.sohucs.com:443 HTTP/1.1" from 643108e7617ef.cdn.sohucs.com
+315: Tunnel closed
+315: Requesting "CONNECT atanx2.alicdn.com:443 HTTP/1.1" from atanx2.alicdn.com
+154: Tunnel closed
+154: Requesting "CONNECT phs.tanx.com:443 HTTP/1.1" from phs.tanx.com
+226: Tunnel closed
+226: Requesting "CONNECT df.tanx.com:443 HTTP/1.1" from df.tanx.com
+223: Tunnel closed
+223: Requesting "CONNECT a1.alicdn.com:443 HTTP/1.1" from a1.alicdn.com
+217: Tunnel closed
+217: Requesting "CONNECT sports.sohu.com:443 HTTP/1.1" from sports.sohu.com
+186: Tunnel closed
+186: Requesting "CONNECT atanx.alicdn.com:443 HTTP/1.1" from atanx.alicdn.com
+195: Tunnel closed
+195: Requesting "CONNECT opehs.tanx.com:443 HTTP/1.1" from opehs.tanx.com
+178: Tunnel closed
+178: Requesting "CONNECT imp.optaim.com:443 HTTP/1.1" from imp.optaim.com
+233: Tunnel closed
+233: Requesting "CONNECT m.simba.taobao.com:443 HTTP/1.1" from m.simba.taobao.com
+no-id: "ERROR "accepting client socket failed"
+473: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:35 2020
+
+474: "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:36 2020
+
+475: "GET http://dukehub.duke.edu/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:38 2020
+
+475: not in cache
+475: Requesting "GET http://dukehub.duke.edu/ HTTP/1.1" from dukehub.duke.edu
+475: Received "HTTP/1.0 302 Found" from dukehub.duke.edu
+475: Responding "HTTP/1.0 302 Found"
+476: "CONNECT dukehub.duke.eduhttp:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:38 2020
+
+476: ERROR "creating client socket failed"
+476: Responding HTTP/1.1 400 Bad Request
+477: "GET http://dukehub.duke.edu/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:41 2020
+
+477: not in cache
+477: Requesting "GET http://dukehub.duke.edu/ HTTP/1.1" from dukehub.duke.edu
+477: Received "HTTP/1.0 302 Found" from dukehub.duke.edu
+477: Responding "HTTP/1.0 302 Found"
+no-id: "ERROR "accepting client socket failed"
+108: Tunnel closed
+108: Requesting "CONNECT track.sohu.com:443 HTTP/1.1" from track.sohu.com
+456: ERROR "recv() failed at tunnel"
+456: Tunnel closed
+453: ERROR "recv() failed at tunnel"
+453: Tunnel closed
+340: Tunnel closed
+340: Requesting "CONNECT fdyn.pubwise.io:443 HTTP/1.1" from fdyn.pubwise.io
+360: Tunnel closed
+360: Requesting "CONNECT etp-experiment-1.dummytracker.org:443 HTTP/1.1" from etp-experiment-1.dummytracker.org
+361: Tunnel closed
+361: Requesting "CONNECT etp-experiment-2.dummytracker.org:443 HTTP/1.1" from etp-experiment-2.dummytracker.org
+368: Tunnel closed
+368: Requesting "CONNECT images.fastcompany.net:443 HTTP/1.1" from images.fastcompany.net
+372: Tunnel closed
+372: Requesting "CONNECT fonts.gstatic.com:443 HTTP/1.1" from fonts.gstatic.com
+366: Tunnel closed
+366: Requesting "CONNECT api.opmnstr.com:443 HTTP/1.1" from api.opmnstr.com
+338: Tunnel closed
+338: Requesting "CONNECT getpocket.com:443 HTTP/1.1" from getpocket.com
+380: Tunnel closed
+380: Requesting "CONNECT adservice.google.com:443 HTTP/1.1" from adservice.google.com
+379: Tunnel closed
+379: Requesting "CONNECT c.amazon-adsystem.com:443 HTTP/1.1" from c.amazon-adsystem.com
+385: Tunnel closed
+385: Requesting "CONNECT dmx.districtm.io:443 HTTP/1.1" from dmx.districtm.io
+376: Tunnel closed
+376: Requesting "CONNECT www.google-analytics.com:443 HTTP/1.1" from www.google-analytics.com
+386: Tunnel closed
+386: Requesting "CONNECT tlx.3lift.com:443 HTTP/1.1" from tlx.3lift.com
+393: Tunnel closed
+393: Requesting "CONNECT api.pubwise.io:443 HTTP/1.1" from api.pubwise.io
+51: Tunnel closed
+51: Requesting "CONNECT www.gstatic.com:443 HTTP/1.1" from www.gstatic.com
+395: Tunnel closed
+395: Requesting "CONNECT prebid.digitru.st:443 HTTP/1.1" from prebid.digitru.st
+381: Tunnel closed
+381: Requesting "CONNECT hbopenbid.pubmatic.com:443 HTTP/1.1" from hbopenbid.pubmatic.com
+375: Tunnel closed
+375: Requesting "CONNECT c.amazon-adsystem.com:443 HTTP/1.1" from c.amazon-adsystem.com
+397: Tunnel closed
+397: Requesting "CONNECT cdn.ampproject.org:443 HTTP/1.1" from cdn.ampproject.org
+414: Tunnel closed
+414: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+373: Tunnel closed
+373: Requesting "CONNECT securepubads.g.doubleclick.net:443 HTTP/1.1" from securepubads.g.doubleclick.net
+416: Tunnel closed
+416: Requesting "CONNECT eb2.3lift.com:443 HTTP/1.1" from eb2.3lift.com
+418: Tunnel closed
+418: Requesting "CONNECT cdn.districtm.io:443 HTTP/1.1" from cdn.districtm.io
+478: "CONNECT pocket-image-cache.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:53 2020
+
+479: "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:53 2020
+
+479: Requesting "POST http://ocsp.sca1b.amazontrust.com/ HTTP/1.1" from ocsp.sca1b.amazontrust.com
+479: Received "HTTP/1.1 200 OK" from ocsp.sca1b.amazontrust.com
+479: Responding "HTTP/1.1 200 OK"
+409: Tunnel closed
+409: Requesting "CONNECT tpc.googlesyndication.com:443 HTTP/1.1" from tpc.googlesyndication.com
+461: Tunnel closed
+461: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+480: "GET http://people.duke.edu/~bmr23/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:57 2020
+
+480: in cache, requires validation
+480: Requesting "GET http://people.duke.edu/~bmr23/ HTTP/1.1" from people.duke.edu
+480: Received "HTTP/1.1 200 OK" from people.duke.edu
+480: Responding "HTTP/1.1 200 OK"
+480: cached, but requires re-validation 
+481: "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:57 2020
+
+481: in cache, requires validation
+481: Requesting "GET http://people.duke.edu/~bmr23/style.css HTTP/1.1" from people.duke.edu
+481: Received "HTTP/1.1 200 OK" from people.duke.edu
+481: Responding "HTTP/1.1 200 OK"
+481: cached, but requires re-validation 
+482: "GET http://people.duke.edu/favicon.ico HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:15:58 2020
+
+482: not in cache
+482: Requesting "GET http://people.duke.edu/favicon.ico HTTP/1.1" from people.duke.edu
+482: Received "HTTP/1.1 404 Not Found" from people.duke.edu
+482: Responding "HTTP/1.1 404 Not Found"
+454: Tunnel closed
+454: Requesting "CONNECT t.sharethis.com:443 HTTP/1.1" from t.sharethis.com
+483: "CONNECT dukehub.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:14 2020
+
+484: "POST http://ocsp.usertrust.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:14 2020
+
+484: Requesting "POST http://ocsp.usertrust.com/ HTTP/1.1" from ocsp.usertrust.com
+484: Received "HTTP/1.1 200 OK" from ocsp.usertrust.com
+484: Responding "HTTP/1.1 200 OK"
+485: "CONNECT dukehub.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:15 2020
+
+486: "CONNECT dukehub.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:15 2020
+
+487: "CONNECT dukehub.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:15 2020
+
+488: "CONNECT dukehub.duke.edu:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:15 2020
+
+489: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+490: "CONNECT www.youtube-nocookie.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+491: "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+492: "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+493: "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+494: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+491: Tunnel closed
+491: Requesting "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from dvngeac8rg9mb.cloudfront.net
+495: "CONNECT piazza.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+493: Tunnel closed
+493: Requesting "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from dvngeac8rg9mb.cloudfront.net
+495: Tunnel closed
+495: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+496: "CONNECT s.ytimg.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+497: "CONNECT s.ytimg.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+498: "CONNECT s.ytimg.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+499: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+500: "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:32 2020
+
+496: Tunnel closed
+496: Requesting "CONNECT s.ytimg.com:443 HTTP/1.1" from s.ytimg.com
+498: Tunnel closed
+498: Requesting "CONNECT s.ytimg.com:443 HTTP/1.1" from s.ytimg.com
+10: Tunnel closed
+10: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+488: Tunnel closed
+487: Tunnel closed
+486: Tunnel closed
+485: Tunnel closed
+483: Tunnel closed
+501: "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:51 2020
+
+501: not in cache
+501: Requesting "GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx HTTP/1.1" from www.httpwatch.com
+501: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+501: Responding "HTTP/1.1 200 OK"
+501: not cacheable because cache-control: no-store
+502: "GET http://www.httpwatch.com/favicon.ico HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:16:55 2020
+
+502: not in cache
+502: Requesting "GET http://www.httpwatch.com/favicon.ico HTTP/1.1" from www.httpwatch.com
+502: Received "HTTP/1.1 200 OK" from www.httpwatch.com
+502: Responding "HTTP/1.1 200 OK"
+426: Tunnel closed
+426: Requesting "CONNECT connect.facebook.net:443 HTTP/1.1" from connect.facebook.net
+428: Tunnel closed
+428: Requesting "CONNECT s.sharethis.com:443 HTTP/1.1" from s.sharethis.com
+429: Tunnel closed
+429: Requesting "CONNECT www.googleadservices.com:443 HTTP/1.1" from www.googleadservices.com
+427: Tunnel closed
+427: Requesting "CONNECT w.sharethis.com:443 HTTP/1.1" from w.sharethis.com
+342: Tunnel closed
+342: Requesting "CONNECT www.googletagmanager.com:443 HTTP/1.1" from www.googletagmanager.com
+436: Tunnel closed
+436: Requesting "CONNECT connect.facebook.net:443 HTTP/1.1" from connect.facebook.net
+423: Tunnel closed
+423: Requesting "CONNECT simplisafe.com:443 HTTP/1.1" from simplisafe.com
+364: Tunnel closed
+364: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com
+445: Tunnel closed
+445: Requesting "CONNECT stats.g.doubleclick.net:443 HTTP/1.1" from stats.g.doubleclick.net
+439: Tunnel closed
+439: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+447: Tunnel closed
+447: Requesting "CONNECT js-agent.newrelic.com:443 HTTP/1.1" from js-agent.newrelic.com
+441: Tunnel closed
+441: Requesting "CONNECT ssl.google-analytics.com:443 HTTP/1.1" from ssl.google-analytics.com
+446: Tunnel closed
+446: Requesting "CONNECT c.sharethis.mgr.consensu.org:443 HTTP/1.1" from c.sharethis.mgr.consensu.org
+448: Tunnel closed
+448: Requesting "CONNECT bid.g.doubleclick.net:443 HTTP/1.1" from bid.g.doubleclick.net
+442: Tunnel closed
+442: Requesting "CONNECT ct.pinterest.com:443 HTTP/1.1" from ct.pinterest.com
+435: Tunnel closed
+435: Requesting "CONNECT sp.analytics.yahoo.com:443 HTTP/1.1" from sp.analytics.yahoo.com
+432: Tunnel closed
+432: Requesting "CONNECT s.pinimg.com:443 HTTP/1.1" from s.pinimg.com
+437: Tunnel closed
+437: Requesting "CONNECT ws.sharethis.com:443 HTTP/1.1" from ws.sharethis.com
+452: Tunnel closed
+452: Requesting "CONNECT www.facebook.com:443 HTTP/1.1" from www.facebook.com
+374: Tunnel closed
+374: Requesting "CONNECT pagead2.googlesyndication.com:443 HTTP/1.1" from pagead2.googlesyndication.com
+503: "GET http://httpbin.org/forms/post HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:10 2020
+
+503: not in cache
+503: Requesting "GET http://httpbin.org/forms/post HTTP/1.1" from httpbin.org
+503: Received "HTTP/1.1 200 OK" from httpbin.org
+503: Responding "HTTP/1.1 200 OK"
+504: "GET http://httpbin.org/favicon.ico HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:10 2020
+
+504: not in cache
+504: Requesting "GET http://httpbin.org/favicon.ico HTTP/1.1" from httpbin.org
+504: Received "HTTP/1.1 404 NOT FOUND" from httpbin.org
+504: Responding "HTTP/1.1 404 NOT FOUND"
+505: "POST http://httpbin.org/post HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:16 2020
+
+505: Requesting "POST http://httpbin.org/post HTTP/1.1" from httpbin.org
+505: Received "HTTP/1.1 200 OK" from httpbin.org
+505: Responding "HTTP/1.1 200 OK"
+11: Tunnel closed
+11: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+506: "GET http://www.artsci.utoronto.ca/futurestudents HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:28 2020
+
+506: not in cache
+506: Requesting "GET http://www.artsci.utoronto.ca/futurestudents HTTP/1.1" from www.artsci.utoronto.ca
+506: Received "HTTP/1.1 301 Moved Permanently" from www.artsci.utoronto.ca
+506: Responding "HTTP/1.1 301 Moved Permanently"
+507: "CONNECT www.artsci.utoronto.ca:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:28 2020
+
+508: "POST http://ocsp.comodoca.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:28 2020
+
+508: Requesting "POST http://ocsp.comodoca.com/ HTTP/1.1" from ocsp.comodoca.com
+508: Received "HTTP/1.1 200 OK" from ocsp.comodoca.com
+508: Responding "HTTP/1.1 200 OK"
+510: "CONNECT cdn.datatables.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+511: "CONNECT www.artsci.utoronto.ca:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+512: "CONNECT www.artsci.utoronto.ca:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+513: "CONNECT www.artsci.utoronto.ca:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+514: "CONNECT fonts.googleapis.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+515: "CONNECT code.jquery.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+516: "CONNECT cdn.datatables.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+517: "CONNECT www.artsci.utoronto.ca:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+518: "CONNECT www.artsci.utoronto.ca:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+519: "POST http://ocsp.comodoca4.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+520: "POST http://ocsp.comodoca4.com/ HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+521: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:29 2020
+
+520: Requesting "POST http://ocsp.comodoca4.com/ HTTP/1.1" from ocsp.comodoca4.com
+520: Received "HTTP/1.1 200 OK" from ocsp.comodoca4.com
+520: Responding "HTTP/1.1 200 OK"
+519: Requesting "POST http://ocsp.comodoca4.com/ HTTP/1.1" from ocsp.comodoca4.com
+521: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+519: Received "HTTP/1.1 200 OK" from ocsp.comodoca4.com
+519: Responding "HTTP/1.1 200 OK"
+521: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+521: Responding "HTTP/1.1 200 OK"
+510: Tunnel closed
+510: Requesting "CONNECT cdn.datatables.net:443 HTTP/1.1" from cdn.datatables.net
+522: "CONNECT www.googletagmanager.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:30 2020
+
+523: "CONNECT www.youtube.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:30 2020
+
+525: "CONNECT maxcdn.bootstrapcdn.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:30 2020
+
+524: "CONNECT fonts.gstatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:30 2020
+
+525: Tunnel closed
+525: Requesting "CONNECT maxcdn.bootstrapcdn.com:443 HTTP/1.1" from maxcdn.bootstrapcdn.com
+524: Tunnel closed
+524: Requesting "CONNECT fonts.gstatic.com:443 HTTP/1.1" from fonts.gstatic.com
+526: "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+527: "CONNECT fonts.gstatic.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+527: Tunnel closed
+527: Requesting "CONNECT fonts.gstatic.com:443 HTTP/1.1" from fonts.gstatic.com
+528: "CONNECT www.google-analytics.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+529: "CONNECT static.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+530: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+530: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+530: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+530: Responding "HTTP/1.1 200 OK"
+531: "CONNECT yt3.ggpht.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+532: "CONNECT i.ytimg.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+534: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+535: "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+534: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+535: Requesting "POST http://ocsp.pki.goog/gts1o1 HTTP/1.1" from ocsp.pki.goog
+534: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+534: Responding "HTTP/1.1 200 OK"
+535: Received "HTTP/1.1 200 OK" from ocsp.pki.goog
+535: Responding "HTTP/1.1 200 OK"
+536: "CONNECT stats.g.doubleclick.net:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:31 2020
+
+473: Tunnel closed
+473: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+474: Tunnel closed
+474: Requesting "CONNECT snippets.cdn.mozilla.net:443 HTTP/1.1" from snippets.cdn.mozilla.net
+489: Tunnel closed
+489: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+494: Tunnel closed
+494: Requesting "CONNECT piazza.com:443 HTTP/1.1" from piazza.com
+517: Tunnel closed
+511: Tunnel closed
+518: Tunnel closed
+513: Tunnel closed
+512: Tunnel closed
+507: Tunnel closed
+515: Tunnel closed
+537: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:42 2020
+
+538: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:42 2020
+
+539: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:42 2020
+
+540: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:42 2020
+
+541: "CONNECT eclick.baidu.com:443 HTTP/1.1" from 172.20.0.1 @ Sat Feb 29 03:17:42 2020
+
+58: Tunnel closed
+523: Tunnel closed
+523: Requesting "CONNECT www.youtube.com:443 HTTP/1.1" from www.youtube.com
+516: Tunnel closed
+516: Requesting "CONNECT cdn.datatables.net:443 HTTP/1.1" from cdn.datatables.net
+528: Tunnel closed
+528: Requesting "CONNECT www.google-analytics.com:443 HTTP/1.1" from www.google-analytics.com
+514: Tunnel closed
+514: Requesting "CONNECT fonts.googleapis.com:443 HTTP/1.1" from fonts.googleapis.com
+536: Tunnel closed
+536: Requesting "CONNECT stats.g.doubleclick.net:443 HTTP/1.1" from stats.g.doubleclick.net
+497: Tunnel closed
+497: Requesting "CONNECT s.ytimg.com:443 HTTP/1.1" from s.ytimg.com
+492: Tunnel closed
+492: Requesting "CONNECT dvngeac8rg9mb.cloudfront.net:443 HTTP/1.1" from dvngeac8rg9mb.cloudfront.net
+500: Tunnel closed
+500: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+24: Tunnel closed
+24: Requesting "CONNECT img-getpocket.cdn.mozilla.net:443 HTTP/1.1" from img-getpocket.cdn.mozilla.net
+532: Tunnel closed
+532: Requesting "CONNECT i.ytimg.com:443 HTTP/1.1" from i.ytimg.com
+529: Tunnel closed
+529: Requesting "CONNECT static.doubleclick.net:443 HTTP/1.1" from static.doubleclick.net
+490: Tunnel closed
+490: Requesting "CONNECT www.youtube-nocookie.com:443 HTTP/1.1" from www.youtube-nocookie.com
+421: Tunnel closed
+421: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+499: Tunnel closed
+499: Requesting "CONNECT d1b10bmlvqabco.cloudfront.net:443 HTTP/1.1" from d1b10bmlvqabco.cloudfront.net
+478: Tunnel closed
+478: Requesting "CONNECT pocket-image-cache.com:443 HTTP/1.1" from pocket-image-cache.com
+531: Tunnel closed
+531: Requesting "CONNECT yt3.ggpht.com:443 HTTP/1.1" from yt3.ggpht.com
+262: Tunnel closed
+262: Requesting "CONNECT gma.alicdn.com:443 HTTP/1.1" from gma.alicdn.com
+522: Tunnel closed
+522: Requesting "CONNECT www.googletagmanager.com:443 HTTP/1.1" from www.googletagmanager.com
+422: Tunnel closed
+422: Requesting "CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1" from incoming.telemetry.mozilla.org
+68: Tunnel closed
+68: Requesting "CONNECT www.google.com:443 HTTP/1.1" from www.google.com
+526: Tunnel closed
+526: Requesting "CONNECT googleads.g.doubleclick.net:443 HTTP/1.1" from googleads.g.doubleclick.net
+539: Tunnel closed
+539: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+537: Tunnel closed
+537: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+541: Tunnel closed
+541: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+538: Tunnel closed
+538: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com
+540: Tunnel closed
+540: Requesting "CONNECT eclick.baidu.com:443 HTTP/1.1" from eclick.baidu.com

@@ -1,0 +1,94 @@
+ECE568 hw2 HTTP caching proxy server danger log
+He Kai, Zhang Haimeng
+
+1. information transferred in sockets between proxy and client/server is not encrypted.
+Anyone who listen and binds to that socket_fd can receive information which should be kept private.
+
+2. vulnerable to buffer overflow attacks
+proxy server accepts any message from any client that binds to the port.
+If an user uses netcat to send a very long message which overflows the message buffer,
+the server's state may be modified by malicious code in overflowed part of the message.
+
+It is parially resolved when we know the content-length or transfer encoding. The vector<char> to receive it is resized correspondingly by its length. Chunked is more dangerous here, and if it does not have 0\r\n\r\n in the last message, it will go into an
+infinite loop.
+
+3. conccurent caching problem
+Concurrent cache access from the same host may result in multiple not-in-cache/ need validating. 
+When the first request is still validating and updating the caches, 
+the following requests may overwrite its cache control info and expire time.
+
+solved with lock_guarding both when getting and replacing cache. But this may slow server down.
+
+4. no recovery / redo procedures
+if a response to client fails, the request will not be re-done.
+the server prints some message about the error and kills current thread.
+ 
+5. slow when receiving very large chunked Transfer-Encoding
+such as a pdf file that is 50MB large
+this is likely because it need to loop many times to retrieve the whole file
+
+6. if client sends a corrupted GET request, our code will print some error message 
+but will still return an response.
+This may be corruputed response and could be maliciously used.
+
+We do not know the exact definition of corrupt message, and http message with wrong format may raise problems here.
+
+7. LRU replacement policy ignores the sizes of documents. 
+To make room for, say, a large video for one user, it might replace many small documents resulting in misses for many users.
+This replace policy may lead to higher cache miss rates.
+
+requests and responses with ETags are not well tested, and may be vulnerable when it needs to add an ETag.
+
+8. 
+
+exception guarantee: MOST NO THROW
+
+socket-create, bind, listen, connect, accpet socket connections
+	int newServerSocket();
+	int newClientSocket();
+	int connectSocket();
+	int acceptSocket();
+All four methods are guranteed no throw
+instead it prints corresponding error message to std::err and returns -1 to outside
+in main, the error is logged in proxy.log
+
+parser-takes string received from client or server and parse it 
+into header and body and store them in specified data structures.
+	void parseRequestHeader();//if method is not GET or POST or CONNECT, print invalid method and return
+	void parseMessage(std::string &message); //print invalid message and return
+	void setPair();
+	bool isHeaderExist(const char *header_name);
+	bool checkExistsControlHeader(std::string header_name);
+	std::string getCacheControlValue(std::string key);
+	std::vector<char> ParserToVector();
+First 2 methods prints error message and simply returns -1. Other methods do not have exceptions.
+
+Http messages in wrong format can raise problems in parseMessage(), but parseRequestHeader() and setPair() will not. However,
+wrong format will lead the program to recognize nothing and simply send and recv.
+
+cache-check cache control for cache info and validity, stores cache and keeps a LRU list
+	bool isRequestInCache(Parser &request);
+	bool isCacheCtrlFieldExist(Parser &http, const char *header);
+	std::string checkCacheInfo(Parser &request);
+	Parser getCache(std::string host);
+	bool isCacheCtrlExist(Parser &http);
+	double diffExpireTime(Parser &cache_response, int max_age, int extra_age);  
+	void replaceCache(Parser &request, Parser &response);  
+	std::string getTime(time_t time);
+	time_t getExpireTime(Parser &cache_response, int lifetime, int fresh_time);
+	time_t getUTCTime(std::string time);
+All cache method guaranteed no throw
+
+9. potential risks when recv response
+
+when we first established the get/post method, it is possible not to recv all bytes sent by the webpage server. To secure it,
+we resize the vector<char> each time it is full and make sure recv all the bytes. However, large webpages may be slow to open.
+For the chunked image from piazza, it takes 5 seconds to open. For slides pdf from course webpage, it takes 10 seconds to download
+all contents.
+
+10. cache revalidation completeness
+
+It is complicated to understand all the aspects of http cache control, but I tried my best to construct a control flow by checking
+its cache-control field. no-store means cannot be stored in cache queue and map, and no-cache and max-age=0 means revalidation.
+Other situation may send a new request. The whole control flow can work with simple cases, but something with ETags are unknown
+and we do not test much about it.

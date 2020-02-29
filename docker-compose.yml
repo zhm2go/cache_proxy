@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+ web:
+      build: 
+        context: .
+        dockerfile: ./src/Dockerfile
+      user: root
+      command: "/var/log/erss/src/http_caching_proxy" 
+      volumes:
+        - .:/var/log/erss
+      ports:
+        - "12345:12345"

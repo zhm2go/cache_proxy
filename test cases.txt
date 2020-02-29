@@ -1,0 +1,49 @@
+ECE568 hw2 HTTP caching proxy server testcases
+He Kai, Zhang Haimeng
+
+GET
+0. http://httpbin.org/html
+: "GET http://httpbin.org/html HTTP/1.1" from 10.197.81.27 @ Sat Feb 29 00:03:54 2020
+: in cache, valid
+: Responding "HTTP/1.1 200 OK"
+
+1. http://detectportal.firefox.com/success.txt
+this website only sends GET requests.
+the body of the message is "success"
+non cacheable
+
+2. http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx
+Test for chunked transfer encoding
+has no-cache no-store so non cacheable
+
+3. http://ocsp.pki.goog/gts1o1
+HTTP/1.1 404 Not Found
+
+4. http://www.cs.binghamton.edu/~yaoliu/courses/cs528/
+HTTP/1.1 403 Forbidden
+
+5. http://getstatuscode.com/400
+5: Responding "HTTP/1.1 400 Bad Request"
+5: NOTE cache's first line: HTTP/1.1 400 Bad Request
+This website can also generate other status codes, but has a lot of ads too
+
+6. trythisnotexist.com
+6: "GET http://trythisnotexist.com/ HTTP/1.1" from 10.197.81.27 @ Thu Feb 27 21:09:57 2020
+no-id: Error "cannot get address info for host  (trythisnotexist.com,80)"
+6: ERROR "creating client socket failed"
+6: Responding HTTP/1.1 400 Bad Request
+
+7. http://getstatuscode.com/304
+HTTP/1.1 304 Not Modified
+
+POST
+http://httpbin.org/forms/post
+
+CONNECT
+https://google.com/
+https://www.youtube.com/
+https://www.wikipedia.org/
+https://duke.edu/
+
+concurrent
+open several pages at same time
